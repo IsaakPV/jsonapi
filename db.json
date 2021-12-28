@@ -1,6 +1,6 @@
 {
    "promotions": [
-    { "rid": "10F4CEF0A078424B9D7D432D9DE006FD", "active": 0, "quantity": 0, "code": "asdasd", "value": 23 },
-    { "rid": "10F4CEF0A078424B9D7D432DAsE006FD", "active": 0, "quantity": 1, "code": "asdasd", "value": 23 }
+    { "id": "10F4CEF0A078424B9D7D432D9DE006FD", "active": 0, "quantity": 0, "code": "asdasd", "value": 23 },
+    { "id": "10F4CEF0A078424B9D7D432DAsE006FD", "active": 0, "quantity": 1, "code": "asdasd", "value": 23 }
   ]
 }
