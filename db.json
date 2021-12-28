@@ -1,4 +1,13 @@
-"promotions": 
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+    
+"promotions": [
     { "rid": "10F4CEF0A078424B9D7D432D9DE006FD","active": 0,"quantity": 0,"code": "asdasd","value": 23 }
-  
+    { "rid": "10F4CEF0A078424B9D7D432DAsE006FD","active": 0,"quantity": 1,"code": "asdasd","value": 23 }
+  ],
+}
 
