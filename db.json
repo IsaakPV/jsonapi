@@ -1,34 +1,6 @@
 {
    "promotions": [
-    {
-    "rid": "10F4CEF0A078424B9D7D432D9DE006FD",
-    "active": 0,
-    "validFrom": "2021-12-28",
-    "validTo": "2021-12-28",
-    "quantity": 0,
-    "registeredUsage": 1,
-    "singleUsage": 0,
-    "uniqueUsage": 0,
-    "promotionType": 2,
-    "code": "asdasd",
-    "value": 23,
-    "valueType": 0,
-    "order": 0
-  },
-    {
-    "rid": "10F4CEF0A078424B9D7D432D9DE006FA",
-    "active": 1,
-    "validFrom": "2021-12-28",
-    "validTo": "2021-12-28",
-    "quantity": 1,
-    "registeredUsage": 1,
-    "singleUsage": 0,
-    "uniqueUsage": 0,
-    "promotionType": 2,
-    "code": "asdasd",
-    "value": 23,
-    "valueType": 0,
-    "order": 0
-  }
+    {"rid": "10F4CEF0A078424B9D7D432D9DE006FD","active": 0, "validFrom": "2021-12-28", "validTo": "2021-12-28","quantity": 0, "registeredUsage": 1,  "singleUsage": 0,"uniqueUsage": 0,"promotionType": 2,"code": "asdasd","value": 23,"valueType": 0,"order": 0},
+    {"rid": "10F4CEF0A078424B9D7D432D9DE006FD","active": 0, "validFrom": "2021-12-28", "validTo": "2021-12-28","quantity": 0, "registeredUsage": 1,  "singleUsage": 0,"uniqueUsage": 0,"promotionType": 2,"code": "asdasd","value": 23,"valueType": 0,"order": 0},
   ]
 }
