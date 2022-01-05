@@ -1,6 +1,6 @@
 {
    "promotions": [
-    { "id": 1, "active": 0, "quantity": 0, "code": "data2", "value": 1 },
-    { "id": 2, "active": 1, "quantity": 1, "code": "data1", "value": 2 }
+    { "id": "1", "active": 0, "quantity": 0, "code": "data2", "value": 1 },
+    { "id": "2", "active": 1, "quantity": 1, "code": "data1", "value": 2 }
   ]
 }
